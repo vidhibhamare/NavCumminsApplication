@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">NavCummins</string>
+    <string name="order_cupcakes">Select category</string>
+    <string name="teachers">Teachers</string>
+    <string name="classroom">Classroom</string>
+    <string name="tut_rooms">Tutorial rooms</string>
+    <string name="labs">Laboratories</string>
+    <string name="Others">Others</string>
+    <string name="choose_teacher">Choose teacher name</string>
+
+    <string name="Vikram_Athalaya">Vikaram_Athalaya</string>                        //G
+
+    <string name="Sandeep_Musale">Sandeep Musale</string>                           //F1
+    <string name="Anand_Bewoor">Anand Bewoor</string>
+    <string name="Sunita_Jahirabadkar">Sunita Jahirabadkar</string>
+    <string name="Ashwini_Deshpande">Ashwini Deshpande</string>
+
+    <string name="Manasi_Gathade">Manasi Gathade</string>                           //F2
+    <string name="Sandhya_Potdar">Sandhya Potdar</string>
+    <string name="Vidya_Sisale">Vidya Sisale</string>
+    <string name="Ashutosh_Muchrikar">Ashutosh Muchrikar</string>
+    <string name="Sandhya_Arora">Sandhya Arora</string>
+    <string name="Simantinee_Kulkarni">Simantinee Kulkarni</string>
+    <string name="Prachi_Waghmare">Prachi Waghmare</string>
+    <string name="Padma_Hirave">Padma Hirave</string>
+    <string name="Mrs_KS_Joshi">Mrs. K.S Joshi</string>
+    <string name="Dr_RR_Borhade">Dr RR Borhade</string>
+    <string name="Varsha_Pimpale">Varsha Pimpale</string>
+    <string name="Nutan_Deshpande">Nutan Deshpande</string>
+    <string name="S_H_Rajput">S.H Rajput</string>
+    <string name="Nilofar_Kiittad">Nilofar Kiittad</string>
+    <string name="G_R_Phadlkar">G.R Phadlkar</string>
+    <string name="Mahendra_Deore">Mahendra Deore</string>
+    <string name="Jyoti_Bangare">Jyoti Bangare</string>
+
+    <string name="Dr_Neeta_Maitre">Dr. Neeta Maitre</string>                        //F3
+    <string name="Sakshi_Mandke">Sakshi Mandke</string>
+    <string name="Priya_Deokar">Priya Deokar</string>
+    <string name="Dr_Sheetal_Barekar">Dr. Sheetal Barekar</string>
+    <string name="Pranjali_Deshpande">Pranjali Deshpande</string>
+    <string name="Ashwini_Rajurkar">Ashwini Rajurkar</string>
+
+    <string name="Prof_S_N_Ohathar">Prof. S.N.Ohathar</string>                      //F4
+    <string name="Dr_S_R_Chaudhary">Dr. S.R.Chaudhary</string>
+    <string name="Mrs_RS_Pawar">Mrs. R.S.Pawar</string>
+    <string name="Mrs_S_K_Nichale">Mrs. S.K.Nichale</string>
+    <string name="M_S_Patankar">M.S.Patankar</string>
+    <string name="N_D_Kulkarni">N.D.Kulkarni</string>
+    <string name="Prof_Mahesh_Pote">Prof. Mahesh Pote</string>
+    <string name="Dr_Nitin_Patan">Dr. Nitin Patan</string>
+    <string name="S_G_Dubey">S.G Dubey</string>
+    <string name="Prof_Sagar_Vanarase">Prof. Sagar Vanarase</string>
+    <string name="Dr_Ashok_Khedkar">Dr. Ashok Khedkar</string>
+    <string name="Dr_Sachin_Paranjape">Dr.. Sachin Paranjape</string>
+    <string name="S_L_Sahare">S.L.Sahare</string>
+    <string name="Dr_Megha_S_Borse">Dr. Megha S Borse</string>
+    <string name="Mrs_D_S_Ghatkamble">Mrs. D.S.Ghatkamble</string>
+    <string name="Dr_B_V_Pathate">Dr. B.V.Pathate</string>
+    <string name="Dr_Anita_Patil">Dr. Anita Patil</string>
+    <string name="Dr_Mrudul_Dixit">Dr. Mrudul Dixit</string>
+
+
+    <string name="Shubhangi_Tikhe">Shubhangi_Tikhe</string>                         //F5
+    <string name="Shilpa_Deshpande">Shilpa Deshpande</string>
+    <string name="Rakhi_Dongaokar">Rakhi Dongaokar</string>
+    <string name="Meenal_Kamlakar">Meenal Kamlakar</string>
+    <string name="H_S_Khairnar">H.S Khairnar</string>
+    <string name="S_P_Mengale">S.P Mengale</string>
+    <string name="P_G_Date">P.G Date</string>
+    <string name="Chhaya_Gosavi">Chhaya Gosavi</string>
+    <string name="Shipla_Pant">Shipla Pant</string>
+    <string name="Vaishali_Salgar">Vaishali Salgar</string>
+    <string name="Anajali_Naik">Anajali Naik</string>
+    <string name="Aparna_Majare">Aparna_Majare</string>
+    <string name="Madhuri_Tasgaonkar">Madhuri Tasgaonkar</string>
+    <string name="Sharayu_Misardar">Sharayu Misardar</string>
+    <string name="Sushila_Shelke">Sushila Shelke</string>
+    <string name="Yogini_Kulkarni">Yogini Kulkarni</string>
+    <string name="Vrushali_Deshpande">Vrushali Deshpande</string>
+
+
+    <string name="Class1">Classroom 1</string>
+    <string name="Class2">Classroom 2</string>
+    <string name="Class3">Classroom 3</string>
+    <string name="Class4">Classroom 4</string>
+    <string name="Class5">Classroom 5</string>
+    <string name="Class6">Classroom 6</string>
+    <string name="Class7">Classroom 7</string>
+    <string name="Class8">Classroom 8</string>
+    <string name="Class9">Classroom 9</string>
+    <string name="Class10">Classroom 10</string>
+    <string name="Class11">Classroom 11</string>
+    <string name="Class12">Classroom 12</string>
+    <string name="Class13">Classroom 13</string>
+    <string name="Class14">Classroom 14</string>
+
+
+
+</resources>

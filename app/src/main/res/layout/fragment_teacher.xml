@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TeacherFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/side_margin">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:text="Select Teacher"
+                android:textAppearance="?attr/textAppearanceHeadline4"
+                android:textColor="@color/material_on_background_emphasis_medium" />
+
+            <Button
+                android:id="@+id/Sandeep_Musale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Sandeep Musale" />
+
+            <Button
+                android:id="@+id/Anand_Bewoor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Anand Bewoor" />
+
+            <Button
+                android:id="@+id/Sunita_Jahirabadkar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Sunita Jahirabadkar" />
+
+            <Button
+                android:id="@+id/Dr_Ashwini_Deshpande"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. Ashwini Deshpande" />
+
+            <Button
+                android:id="@+id/Dr_Neeta_Maitre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr Neeta Maitre" />
+
+            <Button
+                android:id="@+id/Sakshi_Mandke"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Sakshi Mandke" />
+
+            <Button
+                android:id="@+id/Priya_Deokar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Priya Deokar" />
+
+            <Button
+                android:id="@+id/Dr_Sheetal_Barekar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr Sheetal Barekar" />
+
+            <Button
+                android:id="@+id/Pranjali_Deshpande"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Pranjali Deshpande" />
+
+            <Button
+                android:id="@+id/Ashwini_Rajurkar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Ashwini Rajurkar" />
+
+            <Button
+                android:id="@+id/Manasi_Gathade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Manasi Gathade" />
+
+            <Button
+                android:id="@+id/Sandhya_Potdar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Sandhya Potdar" />
+
+            <Button
+                android:id="@+id/Vidya_Sisale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Vidya Sisale" />
+
+            <Button
+                android:id="@+id/Ashutosh_Muchrikar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Ashutosh Muchrikar" />
+
+            <Button
+                android:id="@+id/Sandhya_Arora"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Sandhya Arora" />
+
+            <Button
+                android:id="@+id/Simantinee_Kulkarni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Simantinee Kulkarni" />
+
+            <Button
+                android:id="@+id/Prachi_Waghmare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Prachi Waghmare" />
+
+            <Button
+                android:id="@+id/Padma_Hirave"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Padma Hirave" />
+
+            <Button
+                android:id="@+id/Mrs_KS_Joshi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Mrs. K.S. Joshi" />
+
+            <Button
+                android:id="@+id/Dr_RR_Borhade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. R.R. Borhade" />
+
+            <Button
+                android:id="@+id/Nutan_Deshpande"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Nutan Deshpande" />
+
+            <Button
+                android:id="@+id/Varsha_Pimpale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Varsha Pimpale" />
+
+            <Button
+                android:id="@+id/S_H_Rajput"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="S.H Rajput" />
+
+            <Button
+                android:id="@+id/Nilofar_Kiittad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Nilofar Kiittad" />
+
+            <Button
+                android:id="@+id/G_R_Phadlkar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="G.R Phadlkar" />
+
+            <Button
+                android:id="@+id/Mahendra_Deore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Mahendra Deore" />
+
+            <Button
+                android:id="@+id/Jyoti_Bangare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Jyoti Bangare" />
+
+            <Button
+                android:id="@+id/Shubhangi_Tikhe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Shubhangi Tikhe" />
+
+            <Button
+                android:id="@+id/Shilpa_Deshpande"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Shilpa Deshpande" />
+
+            <Button
+                android:id="@+id/Rakhi_Dongaonkar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Rakhi Dongaonkar" />
+
+            <Button
+                android:id="@+id/Meenal_Kamlakar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Meenal Kamlakar" />
+
+            <Button
+                android:id="@+id/H_S_Khairnar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="H.S Khairnar" />
+
+            <Button
+                android:id="@+id/S_P_Mengale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="S.P Mengale" />
+
+            <Button
+                android:id="@+id/P_G_Date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="P.G Date" />
+
+            <Button
+                android:id="@+id/Chhaya_Gosavi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Chhaya Gosavi" />
+
+            <Button
+                android:id="@+id/Shilpa_Pant"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Shilpa Pant" />
+
+            <Button
+                android:id="@+id/Vaishali_Salgar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Vaishali Salgar" />
+
+            <Button
+                android:id="@+id/Anjali_Naik"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Anjali Naik" />
+
+            <Button
+                android:id="@+id/Aparna_Majare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Aparna Majare" />
+
+            <Button
+                android:id="@+id/Madhuri_Tasgaonkar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Madhuri Tasgoankar" />
+
+            <Button
+                android:id="@+id/Sharayu_Misardar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Sharayu Misardar" />
+
+            <Button
+                android:id="@+id/Sushila_Shelke"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Sushila Shelke" />
+
+            <Button
+                android:id="@+id/Yogini_Kulkarni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Yogini Kulkarni" />
+
+            <Button
+                android:id="@+id/Vrushali_Deshpande"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Vrushali Deshpande" />
+
+            <Button
+                android:id="@+id/Prof_S_N_Ohathar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Prof. S.N Ohathar" />
+
+            <Button
+                android:id="@+id/Dr_S_R_Chaudhary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. S.R Chaudhary" />
+
+            <Button
+                android:id="@+id/Mrs_RS_Pawar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Mrs. R.S Pawar" />
+
+            <Button
+                android:id="@+id/Mrs_S_K_Nichale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Mrs. S.K Nichale" />
+
+            <Button
+                android:id="@+id/M_S_Patankar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="M.S Patankar" />
+
+            <Button
+                android:id="@+id/N_D_Kulkarni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="N.D Kulkarni" />
+
+            <Button
+                android:id="@+id/Prof_Mahesh_Pote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Prof. Mahesh Pote" />
+
+            <Button
+                android:id="@+id/Dr_Nitin_Patan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. Nitin Patan" />
+
+            <Button
+                android:id="@+id/S_G_Dubey"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="S.G Dubey" />
+
+            <Button
+                android:id="@+id/Prof_Sagar_Vanarase"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Prof. Sagar Vanarase" />
+
+            <Button
+                android:id="@+id/Dr_B_V_Pathate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. B.V.Pathate" />
+
+            <Button
+                android:id="@+id/Dr_Anita_Patil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. Anita Patil" />
+
+            <Button
+                android:id="@+id/Dr_Mrudul_Dixit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr Mrudul Dixit" />
+
+            <Button
+                android:id="@+id/Dr_Ashok_Khedkar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. Ashok Khedkar" />
+
+            <Button
+                android:id="@+id/Dr_Sachin_Paranjape"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. Sachin Paranjape" />
+
+            <Button
+                android:id="@+id/S_L_Sahare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="S.L.Sahare" />
+
+            <Button
+                android:id="@+id/Dr_Megha_S_Borse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Dr. Megha S Borse" />
+
+            <Button
+                android:id="@+id/Mrs_D_S_Ghatkamble"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Mrs. D.S. Ghatkamble" />
+
+            <Button
+                android:id="@+id/Vikram_Athalaya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Vikaram_Athalaya" />
+
+        </LinearLayout>
+    </ScrollView>
+</layout>

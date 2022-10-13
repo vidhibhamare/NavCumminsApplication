@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ClassroomFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/side_margin">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:text="Select Classroom"
+                android:textAppearance="?attr/textAppearanceHeadline4"
+                android:textColor="@color/material_on_background_emphasis_medium" />
+
+            <Button
+                android:id="@+id/Class1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 1" />
+
+            <Button
+                android:id="@+id/Class2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 2" />
+
+            <Button
+                android:id="@+id/Class3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 3" />
+
+            <Button
+                android:id="@+id/Class4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 4" />
+
+            <Button
+                android:id="@+id/Class5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 5" />
+
+            <Button
+                android:id="@+id/Class6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 6" />
+
+            <Button
+                android:id="@+id/Class7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 7" />
+
+            <Button
+                android:id="@+id/Class8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 8" />
+
+            <Button
+                android:id="@+id/Class9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 9" />
+
+            <Button
+                android:id="@+id/Class10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 10" />
+
+            <Button
+                android:id="@+id/Class11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 11" />
+
+            <Button
+                android:id="@+id/Class12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 12" />
+
+            <Button
+                android:id="@+id/Class13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 13" />
+
+            <Button
+                android:id="@+id/Class14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Classroom 14" />
+
+        </LinearLayout>
+    </ScrollView>
+</layout>

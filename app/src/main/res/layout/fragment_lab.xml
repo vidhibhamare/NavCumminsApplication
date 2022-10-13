@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LabFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="@dimen/side_margin">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:text="Select Laboratory"
+                android:textAppearance="?attr/textAppearanceHeadline4"
+                android:textColor="@color/material_on_background_emphasis_medium" />
+
+            <Button
+                android:id="@+id/SL5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 5" />
+
+            <Button
+                android:id="@+id/SL2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 2" />
+
+            <Button
+                android:id="@+id/Project_Lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Project Lab" />
+
+            <Button
+                android:id="@+id/ENTC_Lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="ENTC Lab" />
+
+            <Button
+                android:id="@+id/EEE_Lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="EEE Lab" />
+
+            <Button
+                android:id="@+id/MTechLab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="MTech Lab" />
+
+            <Button
+                android:id="@+id/SETECommLab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="SETE Communication Lab" />
+
+            <Button
+                android:id="@+id/SL10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 10" />
+
+            <Button
+                android:id="@+id/SL9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 9" />
+
+            <Button
+                android:id="@+id/Project_Lab_ENTC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="ENTC Project Lab" />
+
+            <Button
+                android:id="@+id/CL4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Computer Lab 4" />
+
+            <Button
+                android:id="@+id/CL3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Computer Lab 3" />
+
+            <Button
+                android:id="@+id/CL2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Computer Lab 2" />
+
+            <Button
+                android:id="@+id/CL1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Computer Lab 1" />
+
+            <Button
+                android:id="@+id/CommLab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Communication Lab" />
+
+            <Button
+                android:id="@+id/FOLab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Fibre Optics Lab" />
+
+            <Button
+                android:id="@+id/PELab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Power Electronics Lab" />
+
+            <Button
+                android:id="@+id/AELab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Analog Electronic Lab" />
+
+            <Button
+                android:id="@+id/BELab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Basic Electronics Lab" />
+
+            <Button
+                android:id="@+id/SL1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 1" />
+
+            <Button
+                android:id="@+id/SL6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 6" />
+
+            <Button
+                android:id="@+id/SL3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 3" />
+
+            <Button
+                android:id="@+id/SL7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 7" />
+
+            <Button
+                android:id="@+id/SL8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 8" />
+
+            <Button
+                android:id="@+id/SL4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/order_cupcake_button_width"
+                android:text="Software Lab 4" />
+
+        </LinearLayout>
+    </ScrollView>
+</layout>

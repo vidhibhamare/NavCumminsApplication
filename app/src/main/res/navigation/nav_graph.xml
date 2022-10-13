@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/startFragment">
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.example.navcumminsapp.StartFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_start" >
+        <action
+            android:id="@+id/action_startFragment_to_teacherFragment"
+            app:destination="@id/teacherFragment"
+            />
+        <action
+            android:id = "@+id/action_startFragment_to_classroomFragment"
+            app:destination="@id/ClassroomFragment"
+            />
+        <action
+            android:id = "@+id/action_startFragment_to_tutFragment"
+            app:destination="@id/TutFragment"
+            />
+
+        <action
+            android:id = "@+id/action_startFragment_to_labFragment"
+            app:destination="@id/LabFragment"
+            />
+
+        <action
+            android:id="@+id/action_startFragment_to_othersFragment"
+            app:destination="@id/OthersFragment"
+            />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/teacherFragment"
+        android:name="com.example.navcumminsapp.TeacherFragment"
+        android:label="@string/choose_teacher"
+        tools:layout="@layout/fragment_teacher" >
+
+        <action
+            android:id="@+id/action_teacherFragment_to_gFragment"
+            app:destination="@id/gFragment" />
+
+        <action
+            android:id="@+id/action_teacherFragment_to_f1Fragment"
+            app:destination="@id/f1Fragment" />
+
+        <action
+            android:id="@+id/action_teacherFragment_to_f2Fragment"
+            app:destination="@id/f2Fragment" />
+
+        <action
+            android:id="@+id/action_teacherFragment_to_f3Fragment"
+            app:destination="@id/f3Fragment" />
+
+        <action
+            android:id="@+id/action_teacherFragment_to_f4Fragment"
+            app:destination="@id/f4Fragment" />
+
+        <action
+            android:id="@+id/action_teacherFragment_to_f5Fragment"
+            app:destination="@id/f5Fragment" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/ClassroomFragment"
+        android:name="com.example.navcumminsapp.ClassroomFragment"
+        android:label="Choose classroom number"
+        tools:layout="@layout/fragment_classroom" >
+        <action
+            android:id="@+id/action_ClassroomFragment_to_f1Fragment"
+            app:destination="@id/f1Fragment" />
+
+        <action
+            android:id="@+id/action_ClassroomFragment_to_f2Fragment"
+            app:destination="@id/f2Fragment" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/TutFragment"
+        android:name="com.example.navcumminsapp.TutFragment"
+        android:label="Choose tutorial room"
+        tools:layout="@layout/fragment_tut" >
+        <action
+            android:id="@+id/action_TutFragment_to_gFragment"
+            app:destination="@id/gFragment" />
+
+        <action
+            android:id="@+id/action_TutFragment_to_f3Fragment"
+            app:destination="@id/f3Fragment" />
+    </fragment>
+
+
+    <fragment
+
+        android:id="@+id/LabFragment"
+        android:name="com.example.navcumminsapp.LabFragment"
+        android:label="Choose laboratory"
+        tools:layout="@layout/fragment_lab" >
+        <action
+            android:id="@+id/action_LabFragment_to_gFragment"
+            app:destination="@id/gFragment" />
+
+        <action
+            android:id="@+id/action_LabFragment_to_f2Fragment"
+            app:destination="@id/f2Fragment" />
+
+        <action
+            android:id="@+id/action_LabFragment_to_f3Fragment"
+            app:destination="@id/f3Fragment" />
+
+        <action
+            android:id="@+id/action_LabFragment_to_f4Fragment"
+            app:destination="@id/f4Fragment" />
+
+        <action
+            android:id="@+id/action_LabFragment_to_f5Fragment"
+            app:destination="@id/f5Fragment" />
+
+    </fragment>
+
+    <fragment
+
+        android:id="@+id/OthersFragment"
+        android:name="com.example.navcumminsapp.OthersFragment"
+        android:label="Choose Destination"
+        tools:layout="@layout/fragment_others" >
+        <action
+            android:id="@+id/action_othersFragment_to_gFragment"
+            app:destination="@id/gFragment" />
+
+        <action
+            android:id="@+id/action_othersFragment_to_f1Fragment"
+            app:destination="@id/f1Fragment" />
+
+        <action
+            android:id="@+id/action_othersFragment_to_f3Fragment"
+            app:destination="@id/f3Fragment" />
+
+        <action
+            android:id="@+id/action_othersFragment_to_f5Fragment"
+            app:destination="@id/f5Fragment" />
+
+    </fragment>
+
+
+
+    <fragment
+        android:id="@+id/gFragment"
+        android:name="com.example.navcumminsapp.GFragment"
+        android:label="Ground Floor"
+        tools:layout="@layout/fragment_classroom" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/f1Fragment"
+        android:name="com.example.navcumminsapp.F1Fragment"
+        android:label="First Floor"
+        tools:layout="@layout/fragment_classroom" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/f2Fragment"
+        android:name="com.example.navcumminsapp.F2Fragment"
+        android:label="Second Floor"
+        tools:layout="@layout/fragment_classroom" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/f3Fragment"
+        android:name="com.example.navcumminsapp.F3Fragment"
+        android:label="Third Floor"
+        tools:layout="@layout/fragment_classroom" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/f4Fragment"
+        android:name="com.example.navcumminsapp.F4Fragment"
+        android:label="Fourth Floor"
+        tools:layout="@layout/fragment_classroom" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/f5Fragment"
+        android:name="com.example.navcumminsapp.F5Fragment"
+        android:label="Fifth Floor"
+        tools:layout="@layout/fragment_classroom" >
+    </fragment>
+
+
+</navigation>
