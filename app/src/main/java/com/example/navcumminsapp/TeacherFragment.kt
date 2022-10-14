@@ -59,6 +59,7 @@ class TeacherFragment : Fragment() {
             DrSheetalBarekar.setOnClickListener { goToFloor3() }
             PranjaliDeshpande.setOnClickListener { goToFloor3() }
             AshwiniRajurkar.setOnClickListener { goToFloor3() }
+            UmakantDharmik.setOnClickListener { goToFloor3() }
 
             ProfSNOhathar.setOnClickListener { goToFloor4()}
             DrSRChaudhary.setOnClickListener { goToFloor4()}
@@ -68,7 +69,7 @@ class TeacherFragment : Fragment() {
             NDKulkarni.setOnClickListener { goToFloor4()}
             ProfMaheshPote.setOnClickListener { goToFloor4()}
             DrNitinPatan.setOnClickListener { goToFloor4()}
-            SGDubey.setOnClickListener { goToFloor4()}
+            SGDube.setOnClickListener { goToFloor4()}
             ProfSagarVanarase.setOnClickListener { goToFloor4()}
             DrBVPathate.setOnClickListener { goToFloor4()}
             DrAnitaPatil.setOnClickListener { goToFloor4()}
@@ -100,27 +101,27 @@ class TeacherFragment : Fragment() {
         }
     }
 
-    fun goToFloorG() {
+    private fun goToFloorG() {
         findNavController().navigate(R.id.action_teacherFragment_to_gFragment)
     }
 
-    fun goToFloor1() {
+    private fun goToFloor1() {
         findNavController().navigate(R.id.action_teacherFragment_to_f1Fragment)
     }
 
-    fun goToFloor2() {
+    private fun goToFloor2() {
         findNavController().navigate(R.id.action_teacherFragment_to_f2Fragment)
     }
 
-    fun goToFloor3() {
+    private fun goToFloor3() {
         findNavController().navigate(R.id.action_teacherFragment_to_f3Fragment)
     }
 
-    fun goToFloor4() {
+    private fun goToFloor4() {
         findNavController().navigate(R.id.action_teacherFragment_to_f4Fragment)
     }
 
-    fun goToFloor5() {
+    private fun goToFloor5() {
         findNavController().navigate(R.id.action_teacherFragment_to_f5Fragment)
     }
 

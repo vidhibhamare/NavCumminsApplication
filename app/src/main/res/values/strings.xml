@@ -2,20 +2,23 @@
 
 <resources>
     <string name="app_name">NavCummins</string>
-    <string name="order_cupcakes">Select category</string>
+
+    <string name="select_category">Select category</string>
     <string name="teachers">Teachers</string>
     <string name="classroom">Classroom</string>
     <string name="tut_rooms">Tutorial rooms</string>
     <string name="labs">Laboratories</string>
     <string name="Others">Others</string>
-    <string name="choose_teacher">Choose teacher name</string>
 
+    <string name="choose_teacher">Choose teacher name</string>
     <string name="Vikram_Athalaya">Vikaram_Athalaya</string>                        //G
+
 
     <string name="Sandeep_Musale">Sandeep Musale</string>                           //F1
     <string name="Anand_Bewoor">Anand Bewoor</string>
     <string name="Sunita_Jahirabadkar">Sunita Jahirabadkar</string>
     <string name="Ashwini_Deshpande">Ashwini Deshpande</string>
+
 
     <string name="Manasi_Gathade">Manasi Gathade</string>                           //F2
     <string name="Sandhya_Potdar">Sandhya Potdar</string>
@@ -35,12 +38,15 @@
     <string name="Mahendra_Deore">Mahendra Deore</string>
     <string name="Jyoti_Bangare">Jyoti Bangare</string>
 
+
     <string name="Dr_Neeta_Maitre">Dr. Neeta Maitre</string>                        //F3
     <string name="Sakshi_Mandke">Sakshi Mandke</string>
     <string name="Priya_Deokar">Priya Deokar</string>
     <string name="Dr_Sheetal_Barekar">Dr. Sheetal Barekar</string>
     <string name="Pranjali_Deshpande">Pranjali Deshpande</string>
     <string name="Ashwini_Rajurkar">Ashwini Rajurkar</string>
+    <string name="Umakant_Dharmik">Umakant Dharmik</string>
+
 
     <string name="Prof_S_N_Ohathar">Prof. S.N.Ohathar</string>                      //F4
     <string name="Dr_S_R_Chaudhary">Dr. S.R.Chaudhary</string>
@@ -50,7 +56,7 @@
     <string name="N_D_Kulkarni">N.D.Kulkarni</string>
     <string name="Prof_Mahesh_Pote">Prof. Mahesh Pote</string>
     <string name="Dr_Nitin_Patan">Dr. Nitin Patan</string>
-    <string name="S_G_Dubey">S.G Dubey</string>
+    <string name="S_G_Dube">S.G Dube</string>
     <string name="Prof_Sagar_Vanarase">Prof. Sagar Vanarase</string>
     <string name="Dr_Ashok_Khedkar">Dr. Ashok Khedkar</string>
     <string name="Dr_Sachin_Paranjape">Dr.. Sachin Paranjape</string>
@@ -96,6 +102,45 @@
     <string name="Class13">Classroom 13</string>
     <string name="Class14">Classroom 14</string>
 
+
+    <string name="Tut1">Tutorial Room 1</string>
+    <string name="Tut2">Tutorial Room 2</string>
+    <string name="Tut3">Tutorial Room 3</string>
+
+    <string name="SL1">Software Lab 1</string>
+    <string name="SL2">Software Lab 2</string>
+    <string name="SL3">Software Lab 3</string>
+    <string name="SL4">Software Lab 4</string>
+    <string name="SL5">Software Lab 5</string>
+    <string name="SL6">Software Lab 6</string>
+    <string name="SL7">Software Lab 7</string>
+    <string name="SL8">Software Lab 8</string>
+    <string name="SL9">Software Lab 9</string>
+    <string name="SL10">Software Lab 10</string>
+    <string name="CL1">Computer Lab 1</string>
+    <string name="CL2">Computer Lab 2</string>
+    <string name="CL3">Computer Lab 3</string>
+    <string name="CL4">Computer Lab 4</string>
+    <string name="Project_Lab">Project Lab</string>
+    <string name="ENTC_Lab">ENTC Lab</string>
+    <string name="EEE_Lab">EEE Lab</string>
+    <string name="MTechLab">MTech Lab</string>
+    <string name="SETECommLab">SETE Communication Lab</string>
+    <string name="Project_Lab_ENTC">ENTC Project Lab</string>
+    <string name="CommLab">Communication Lab</string>
+    <string name="FOLab">Fibre Optics Lab</string>
+    <string name="PELab">Power Electronics Lab</string>
+    <string name="AELab">Analog Electronic Lab</string>
+    <string name="BELab">Basic Electronics Lab</string>
+
+    <string name="PO">Principals Office</string>
+    <string name="Lib">Library</string>
+    <string name="Reception">Reception</string>
+    <string name="CDO">Comp Department Office</string>
+    <string name="Reading_hall">Reading hall</string>
+    <string name="Szone">Silent Zone</string>
+    <string name="Query_room">Query room</string>
+    <string name="Terrace">Terrace</string>
 
 
 </resources>

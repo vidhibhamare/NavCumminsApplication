@@ -193,5 +193,4 @@
         tools:layout="@layout/fragment_classroom" >
     </fragment>
 
-
 </navigation>

@@ -29,7 +29,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Sandeep Musale" />
 
             <Button
@@ -37,7 +37,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Anand Bewoor" />
 
             <Button
@@ -45,7 +45,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Sunita Jahirabadkar" />
 
             <Button
@@ -53,7 +53,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. Ashwini Deshpande" />
 
             <Button
@@ -61,7 +61,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr Neeta Maitre" />
 
             <Button
@@ -69,7 +69,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Sakshi Mandke" />
 
             <Button
@@ -77,7 +77,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Priya Deokar" />
 
             <Button
@@ -85,7 +85,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr Sheetal Barekar" />
 
             <Button
@@ -93,7 +93,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Pranjali Deshpande" />
 
             <Button
@@ -101,7 +101,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Ashwini Rajurkar" />
 
             <Button
@@ -109,7 +109,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Manasi Gathade" />
 
             <Button
@@ -117,7 +117,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Sandhya Potdar" />
 
             <Button
@@ -125,7 +125,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Vidya Sisale" />
 
             <Button
@@ -133,7 +133,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Ashutosh Muchrikar" />
 
             <Button
@@ -141,7 +141,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Sandhya Arora" />
 
             <Button
@@ -149,7 +149,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Simantinee Kulkarni" />
 
             <Button
@@ -157,7 +157,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Prachi Waghmare" />
 
             <Button
@@ -165,7 +165,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Padma Hirave" />
 
             <Button
@@ -173,7 +173,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Mrs. K.S. Joshi" />
 
             <Button
@@ -181,7 +181,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. R.R. Borhade" />
 
             <Button
@@ -189,15 +189,23 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Nutan Deshpande" />
+
+            <Button
+                android:id="@+id/Umakant_Dharmik"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:minWidth="@dimen/button_width"
+                android:text="Umakant Dharmik" />
 
             <Button
                 android:id="@+id/Varsha_Pimpale"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Varsha Pimpale" />
 
             <Button
@@ -205,7 +213,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="S.H Rajput" />
 
             <Button
@@ -213,7 +221,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Nilofar Kiittad" />
 
             <Button
@@ -221,7 +229,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="G.R Phadlkar" />
 
             <Button
@@ -229,7 +237,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Mahendra Deore" />
 
             <Button
@@ -237,7 +245,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Jyoti Bangare" />
 
             <Button
@@ -245,7 +253,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Shubhangi Tikhe" />
 
             <Button
@@ -253,7 +261,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Shilpa Deshpande" />
 
             <Button
@@ -261,7 +269,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Rakhi Dongaonkar" />
 
             <Button
@@ -269,7 +277,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Meenal Kamlakar" />
 
             <Button
@@ -277,7 +285,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="H.S Khairnar" />
 
             <Button
@@ -285,7 +293,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="S.P Mengale" />
 
             <Button
@@ -293,7 +301,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="P.G Date" />
 
             <Button
@@ -301,7 +309,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Chhaya Gosavi" />
 
             <Button
@@ -309,7 +317,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Shilpa Pant" />
 
             <Button
@@ -317,7 +325,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Vaishali Salgar" />
 
             <Button
@@ -325,7 +333,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Anjali Naik" />
 
             <Button
@@ -333,7 +341,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Aparna Majare" />
 
             <Button
@@ -341,7 +349,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Madhuri Tasgoankar" />
 
             <Button
@@ -349,7 +357,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Sharayu Misardar" />
 
             <Button
@@ -357,7 +365,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Sushila Shelke" />
 
             <Button
@@ -365,7 +373,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Yogini Kulkarni" />
 
             <Button
@@ -373,7 +381,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Vrushali Deshpande" />
 
             <Button
@@ -381,7 +389,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Prof. S.N Ohathar" />
 
             <Button
@@ -389,7 +397,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. S.R Chaudhary" />
 
             <Button
@@ -397,7 +405,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Mrs. R.S Pawar" />
 
             <Button
@@ -405,7 +413,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Mrs. S.K Nichale" />
 
             <Button
@@ -413,7 +421,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="M.S Patankar" />
 
             <Button
@@ -421,7 +429,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="N.D Kulkarni" />
 
             <Button
@@ -429,7 +437,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Prof. Mahesh Pote" />
 
             <Button
@@ -437,23 +445,23 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. Nitin Patan" />
 
             <Button
-                android:id="@+id/S_G_Dubey"
+                android:id="@+id/S_G_Dube"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
-                android:text="S.G Dubey" />
+                android:minWidth="@dimen/button_width"
+                android:text="S.G Dube" />
 
             <Button
                 android:id="@+id/Prof_Sagar_Vanarase"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Prof. Sagar Vanarase" />
 
             <Button
@@ -461,7 +469,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. B.V.Pathate" />
 
             <Button
@@ -469,7 +477,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. Anita Patil" />
 
             <Button
@@ -477,7 +485,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr Mrudul Dixit" />
 
             <Button
@@ -485,7 +493,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. Ashok Khedkar" />
 
             <Button
@@ -493,7 +501,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. Sachin Paranjape" />
 
             <Button
@@ -501,7 +509,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="S.L.Sahare" />
 
             <Button
@@ -509,7 +517,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Dr. Megha S Borse" />
 
             <Button
@@ -517,7 +525,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Mrs. D.S. Ghatkamble" />
 
             <Button
@@ -525,7 +533,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Vikaram_Athalaya" />
 
         </LinearLayout>

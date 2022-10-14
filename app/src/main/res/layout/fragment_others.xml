@@ -30,7 +30,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Principal's Office" />
 
             <Button
@@ -38,7 +38,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Library" />
 
             <Button
@@ -46,7 +46,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Reception" />
 
             <Button
@@ -54,7 +54,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Comp Department Office" />
 
             <Button
@@ -62,7 +62,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Reading Hall" />
 
             <Button
@@ -70,7 +70,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Silent Zone" />
 
             <Button
@@ -78,7 +78,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Query Room" />
 
             <Button
@@ -86,7 +86,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:minWidth="@dimen/order_cupcake_button_width"
+                android:minWidth="@dimen/button_width"
                 android:text="Terrace" />
 
 
