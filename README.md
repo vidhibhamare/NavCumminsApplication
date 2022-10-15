@@ -24,3 +24,6 @@ Screenshots of the app:-
 ![Screenshot_20221014_002355 (1)](https://user-images.githubusercontent.com/99887695/195911589-42fd04f9-53be-4455-bfcb-9d8eb6e4dde1.jpg)
 
 ![navcumminsicon](https://user-images.githubusercontent.com/99887695/195912810-c96fa4d8-9c96-41a0-b5e1-011c663a6d1c.png)
+
+Application video drive link:
+https://drive.google.com/drive/folders/1JSrZFuxuZE7WkxaOVdDC1osgr667ShL3?usp=sharing
