@@ -1,6 +1,6 @@
 # NavCumminsApp
 
-Download app link:
+App download link:
 https://drive.google.com/file/d/1z8b_8RcPsRBg8BSCSiMmRBqR2NBKo1Kv/view?usp=sharing
 
 NAV CUMMINS
